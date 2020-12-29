@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "experimentalDecorators": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "pretty": true,
+    "strict": true,
+    "target": "ES2019"
+  },
+  "include": ["src/index.ts"]
+}

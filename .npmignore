@@ -1,0 +1,6 @@
+tsconfig.json
+README.md
+src/**/*.ts
+!src/**/*.d.ts
+test
+jest.config.js
